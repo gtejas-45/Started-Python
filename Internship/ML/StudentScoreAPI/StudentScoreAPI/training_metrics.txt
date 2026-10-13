@@ -1,0 +1,5 @@
+Metrics from train/test split (random_state=42, test_size=0.2)
+MAE: 5.45
+MSE: 48.79
+RMSE: 6.98
+R2: 0.5883
